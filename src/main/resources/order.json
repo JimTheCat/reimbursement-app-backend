@@ -1,0 +1,15 @@
+[
+  {
+    "receipts": {
+      "0": {
+        "type": "Train",
+        "price": 11.0
+      }
+    },
+    "allowanceRate": 40.0,
+    "mileageRate": 0.4,
+    "allowance": 4.0,
+    "mileage": 122.0,
+    "sumOfCosts": 219.8
+  }
+]
